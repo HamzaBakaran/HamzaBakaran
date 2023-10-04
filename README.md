@@ -8,7 +8,6 @@ I am a third-year IT student at Burch University, interested in backend developm
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaBakaran&show_icons=true&count_private=true&hide=stars,issues&theme=onedark)](https://github.com/HamzaBakaran)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaBakaran&layout=donut-vertical&theme=onedark)](https://github.com/HamzaBakaran/github-readme-stats)
   
