@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a third-year IT student at Burch University, interested in backend development and DevOps.
+I am a master's degree student at Burch University, interested in back-end development and DevOps. Currently, I am working as a DevOps/System Engineer at Ping d.o.o. 
 
 ## GitHub Stats
 
